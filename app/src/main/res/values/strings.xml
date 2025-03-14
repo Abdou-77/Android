@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="client_last_name_label">Nom</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last name</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="Sexe">Sexe</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="ajouter">Ajouter</string>
+</resources>

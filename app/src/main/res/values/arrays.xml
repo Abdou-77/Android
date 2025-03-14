@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="niveau">
+        <item>Debutant</item>
+        <item>Intermediaire</item>
+        <item>Avance</item>
+    </string-array>
+</resources>
