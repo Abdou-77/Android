@@ -1,5 +1,7 @@
 package com.example.myapplication.model
 
+import retrofit2.Retrofit
+
 enum class Gender {
     MAN,WOMAN
 }
@@ -14,6 +16,7 @@ data class Client(val lastName: String,
     companion object Utils {
         fun getClient(){
             // Implementation here
+            Retrofit.Builder().baseUrl("https://randomuser.me/")
 
         }
     }
