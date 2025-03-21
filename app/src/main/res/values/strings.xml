@@ -8,4 +8,7 @@
     <string name="homme">Homme</string>
     <string name="femme">Femme</string>
     <string name="ajouter">Ajouter</string>
+    <string name="Toast_Ajoute">Client a été ajouter</string>
+    <string name="button">Button</string>
+    <string name="ajouter_un_client">Ajouter un client</string>
 </resources>
